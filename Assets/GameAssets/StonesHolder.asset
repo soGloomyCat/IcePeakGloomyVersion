@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46323c1eb5c6db842bca5ea2cd331dd6, type: 3}
+  m_Name: StonesHolder
+  m_EditorClassIdentifier: 
+  _stones:
+  - {fileID: 4457888611727669874, guid: 7e9d906d208e681458ecede10f73a5b6, type: 3}
+  - {fileID: 3404675769087418895, guid: 9a48f710ac47cd542af75e822fc0f7a0, type: 3}
